@@ -8,11 +8,10 @@ I developed the official SAS sample code package used in the Consumer Expenditur
 •	Documentation from BLS
 •	Metadata integration
 ⚙️ What I Did:
-•	Authored SAS code that demonstrate how to:
-o	Import and merge CES Interview and Diary datasets
-o	Apply correct weights
-o	Perform expenditure analysis by UCC (Universal Classification Code)
-o	Generate summary tables for common use cases
+•	Import and merge CES Interview and Diary datasets
+•	Apply correct weights
+•	Perform expenditure analysis by UCC (Universal Classification Code)
+•	Generate summary tables for common use cases
 •	Worked closely with BLS standards to ensure public usability and replicability
 •	The code have been shared publicly on the BLS website: https://www.bls.gov/cex/pumd/sas-ucc.zip
 📈 Impact:
