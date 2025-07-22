@@ -1,4 +1,4 @@
-Project Title:
+# Project Title:
 Consumer Expenditure Surveys (CES) Analysis – SAS Sample Code Development
 🧾 Summary (Sample Write-Up):
 I developed the official SAS sample code package used in the Consumer Expenditure Surveys (CES) Public-Use Microdata (PUMD) Users' Workshop hosted by the U.S. Bureau of Labor Statistics (BLS). This code provides users with tools to load, clean, and analyze CES microdata efficiently. It supports reproducible workflows and facilitates deeper analysis of U.S. consumer spending trends.
